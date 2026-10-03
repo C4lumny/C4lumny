@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Nathan Ospino</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+### Nathan Ospino
 
-- 🔭 I’m currently working on [CupTap](https://github.com/zelecto/CupTap.git)
-- 📫 How to reach me **ospinonathan@gmail.com**
+Data Engineer & Tech Lead at **Bluetab** · Full Stack Developer at **Soulft**\
+Valledupar, Colombia
 
+I build data pipelines and the products that run on them.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=C4lumny&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=C4lumny&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=C4lumny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Most teams split data engineering and product work. I do both, so I write pipelines knowing what the app downstream needs, and I build apps knowing what each query costs to move. I'm finishing a B.S. in Systems Engineering at UNAD.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[nathanospino.is-a.dev](https://nathanospino.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/nathan-ospino/) · [ospinonathan@gmail.com](mailto:ospinonathan@gmail.com) · [CV (PDF)](https://nathanospino.is-a.dev/assets/cv/nathan-ospino-cv-en.pdf)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=C4lumny&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-[![](https://visitcount.itsvg.in/api?id=C4lumny&icon=5&color=11)](https://visitcount.itsvg.in)
+#### Now
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Bluetab (BBVA Argentina)**, since Sep 2024: PySpark pipelines on AWS, leading the team that runs them.
+- **Soulft**, since Feb 2025: production SaaS (CRM, ERP, POS).
+- **Freelance**, since 2023: school and business platforms, from the schema to the VPS.
+
+#### What I use every week
+
+**Data:** PySpark, Python, Pandas, SQL, Control-M\
+**AWS:** S3, Glue, Athena, EMR, Lambda, SageMaker\
+**Product:** TypeScript, NestJS, React, TypeORM, Laravel, PostgreSQL, MySQL\
+**Ops:** Docker, Dokploy, nginx, Linux, GitHub Actions, n8n, Claude Code, MCP
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,aws,postgres,mysql,ts,nestjs,react,laravel,php,docker,nginx,linux,githubactions&perline=13" alt="Python, AWS, PostgreSQL, MySQL, TypeScript, NestJS, React, Laravel, PHP, Docker, nginx, Linux, GitHub Actions" />
+</p>
+
+#### Things I've shipped
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Lápiz 360](https://lapiz360.com) | Curriculum-aligned assessments for grades 3–11, with ICFES prep and adaptive reports | React, NestJS, PostgreSQL, Docker |
+| [Upcademy](https://upcademy.com.co) | School management: enrollment, grades, report cards, year-end closing | Laravel, React, Inertia.js, MySQL |
+| Plain | Manufacturing ERP covering sales, purchasing and production, with approvals and WhatsApp sharing | NestJS, React, PostgreSQL |
+| Alvera Capital | Real-estate CRM that tracks a lead from the first ad click to a closed sale | NestJS, React, PostgreSQL |
+| EzCompu Soluciones | Admin panel for an IT shop: sales, repairs, daily cash | Laravel, Livewire, MySQL |
+
+Most of this is client work in private repos. I'm happy to walk through any of it on a call.
+
+#### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=C4lumny&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=86a8de&icon_color=86a8de&text_color=c9d1d9">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=C4lumny&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2f5a9e&icon_color=2f5a9e">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=C4lumny&hide_border=true&background=0d1117&ring=86a8de&fire=86a8de&currStreakLabel=86a8de&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=C4lumny&hide_border=true&ring=2f5a9e&fire=2f5a9e&currStreakLabel=2f5a9e">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C4lumny/C4lumny/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/C4lumny/C4lumny/output/snake.svg">
+</picture>
