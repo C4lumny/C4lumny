@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="120" viewBox="0 0 880 120" role="img" aria-label="1,660 contributions, last 12 months, 2,894 contributions in total, 0 days current streak, 14 days longest streak">
+  <rect x="0.5" y="0.5" width="879" height="119" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <g transform="translate(24, 0)">
+      
+      <text y="50" font-size="26" font-weight="600" fill="#e6edf3">1,660</text>
+      <text y="74" font-size="13" fill="#86a8de">contributions, last 12 months</text>
+      <text y="94" font-size="11" fill="#8b949e">232 active days</text>
+    </g>
+    <g transform="translate(244, 0)">
+      <line x1="-24" y1="24" x2="-24" y2="96" stroke="#30363d"/>
+      <text y="50" font-size="26" font-weight="600" fill="#e6edf3">2,894</text>
+      <text y="74" font-size="13" fill="#86a8de">contributions in total</text>
+      <text y="94" font-size="11" fill="#8b949e">since May 17, 2022</text>
+    </g>
+    <g transform="translate(464, 0)">
+      <line x1="-24" y1="24" x2="-24" y2="96" stroke="#30363d"/>
+      <text y="50" font-size="26" font-weight="600" fill="#e6edf3">0 days</text>
+      <text y="74" font-size="13" fill="#86a8de">current streak</text>
+      <text y="94" font-size="11" fill="#8b949e">—</text>
+    </g>
+    <g transform="translate(684, 0)">
+      <line x1="-24" y1="24" x2="-24" y2="96" stroke="#30363d"/>
+      <text y="50" font-size="26" font-weight="600" fill="#e6edf3">14 days</text>
+      <text y="74" font-size="13" fill="#86a8de">longest streak</text>
+      <text y="94" font-size="11" fill="#8b949e">Oct 27, 2025 – Nov 9, 2025</text>
+    </g>
+  </g>
+</svg>
